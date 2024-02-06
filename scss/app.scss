@@ -63,3 +63,15 @@
 // Motion UI
 @include motion-ui-transitions;
 @include motion-ui-animations;
+
+
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.box{
+    border:1% ridge black;
+}
